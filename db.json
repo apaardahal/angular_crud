@@ -1,0 +1,38 @@
+{
+  "productList": [
+    {
+      "productName": "Phones",
+      "category": "Electrics",
+      "freshness": "fresh",
+      "price": 77,
+      "date": "2022-07-05T18:15:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "sajd",
+      "category": "Fruits",
+      "freshness": "fresh",
+      "price": 77,
+      "date": "2022-07-20T18:15:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "jsd",
+      "category": "Electrics",
+      "freshness": "fresh",
+      "price": 74,
+      "date": "2022-07-12T18:15:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
